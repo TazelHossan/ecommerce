@@ -1,10 +1,15 @@
 <h2 align="center">Project Name: E-commerce </h2>
-<h3 align="center">Project Documentation </h3>
+<h3 align="center">Project Documentation for sprint-1 </h3>
 
 <h2 align="center"><a href="https://documentationswe.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/JU-CSE-27/swe-wiki/blob/main/resources/open-source.svg"/>
  </a></h2>
+ 
+ <h3 align="center">Project Documentation for sprint-2 </h3>
 
+<h2 align="center"><a href="https://documentationswe.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/JU-CSE-27/swe-wiki/blob/main/resources/open-source.svg"/>
+ </a></h2>
 
 
 <p align="center">
@@ -66,5 +71,4 @@ We are Team-27 from CSE at JU, and We do content on Design and Development. We r
 
 ![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
-Team members for this project.\
 Feel free to submit a [pull request](https://github.com/JU-CSE-27/swe-wiki/pulls) with your suggestions of awesome GitHub profiles.
